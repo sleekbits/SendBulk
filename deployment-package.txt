@@ -1,0 +1,6 @@
+Production-ready checklist:
+- Configured .env for live host
+- SQL dump included
+- Seeders included
+- Shared hosting .htaccess included
+- Compiled assets included
